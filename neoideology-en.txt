@@ -1,8 +1,8 @@
-﻿00000000011111111112222222222333333333344444444445555555555666666666677777777778
-12345678901234567890123456798012345678901234567890123456789012345678901234567890
+000000000111111111122222222223333333333444444444455555555556666666666777777777
+123456789012345678901234567980123456789012345678901234567890123456789012345678
 
-  ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
-         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
       █   █ █████  ███  █████ ████  █████  ███  █      ███   ███  █   █
       ██  █░█░░░░░█ ░░█  ░█░░░█░░░█ █░░░░░█ ░░█ █░    █ ░░█ █ ░░░ █░  █░
@@ -11,8 +11,8 @@
       █░  █░█████  ███ ░█████ ████ ░█████  ███ ░█████  ███ ░ ███ ░████ ░
        ░   ░ ░░░░░  ░░░  ░░░░░ ░░░░  ░░░░░  ░░░  ░░░░░  ░░░   ░░░  ░░░░
 
-  ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
-         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
        Devised by classroomtoilet upon reading DINAR and Myslánka 1437
        by the English translator and ANSI typesetter 637man, June 2018.
@@ -22,15 +22,15 @@
   -2   C O N T E N T S
  =======================
 
-Chapter	Name		Line
+Chapter Name         Line
 
--2	Contents
--1	Preamble	36
- 0      Articles
- 1	Human
- 2	God
- 3	Nature
- 4	Society
+ -2     Contents
+ -1     Preamble     0036
+  0     Articles     0058
+  1     The Human    0200
+  2     The God      0300
+  3     The Nature   0400
+  4     The Society  0500
 
 
  ======================
@@ -42,120 +42,134 @@ Chapter	Name		Line
  ░▒▒█▒▒░ kind of assumption there is an oppressed or unemancipated minority.
  ░░▒█▒░░ 
  ░░▒█▒░░ In this case it's psychically disabled people and various strangers.
- ░░░▒░░░ In any case it is needed to reach to a big mass of people, even though
-         it will not probably happen. It's important to stress the technical
-advances. Due to the complexity of today's world, I would say good inspiration
-comes from Buddhism with some influences of decentralism and to some extent
-the politics of Pirate Parties. Respectively, it would be mainly reformation
-of intelectual property, strengthening rights to privacy, and transparency of
-the ideal state, as well as Punk culture influence. The view on religion comes
-from Buddhism, Hinduism, Atheism, as well as Neopaganism, and concerning social
-and political views it's multiple influences from Pirate Parties and punk's
-key principle of despisal of the system, which is too obsolete and bureaucratic
-anyway.
-
-The religious influence is these 10 main articles, standing as high as Allah:
-
-  ▓████████████████████████████████████████████████████████████████████████▓
-  █                                                                        █░ 
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  ▓████████████████████████████████████████████████████████████████████████▓░
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-
-
-1.
-Bůh i člověk je jedno
-2.
-Člověk je sám bůh, který neporozuměl sám sobě a je tedy gargantuovský hlupák
-3.
-Pokud existují náboženství, kterých je mnoho tak všechny musí být stejně klamná jako jakákoliv jiná filozofie a pravda musí být jiná
-4.
-Smrt je součástí života a není důvod truchlit
-5.
-Realita je relevantní
-6.
-Všechna náboženství jsou zastaralá, tedy potřeba jiný systém náboženství a tedy i filozofie
-7.
-Vše podléhá zákonům přírody a člověk i příroda jsou jedno, stejně jako bůh.
-8.
-člověk je svobodný doopravdy, pokud je osvícený
-9.
-Pouze ten co je moudrý a osvícený je pravý člověk.
-10.
-Lidi, kteří nejsou, dostatečně inteligentní jsou pořád jen zvířata
-
+ ░░▒█▒░░ In any case it's needed to reach to a big mass of people, even though
+ ░░░▒░░░ it will not probably happen. It's important to stress all those
+         technological advances. Due to the complexity of today's world,
+I would say good inspiration comes from Buddhism with some influences of
+decentralism and to some extent the politics of Pirate Parties. Respectively,
+it would be mainly reformation of intelectual property, strengthening rights
+to privacy, and transparency of the ideal state, as well as Punk culture
+influence. The view on religion comes from Buddhism, Hinduism, Atheism, as
+well as Neo-paganism, and concerning social and political views it's multiple
+influences from Pirate Parties and punk's key principle of despisal of the
+system, which is too obsolete and bureaucratic anyway.
 
 
  =====================
   0   A R T I C L E S
  =====================
 
+  ▓████████████████████████████████████████████████████████████████████████▓
+  █                                                                        █░
+  █   M A I N   A R T I C L E S                                            █░
+  █________________________________________________________________________█░
+  █                                                                        █░
+  █  1 God and human is one.                                               █░
+  █  2 Human is a god which hasn't understood themself, for which they're  █░
+  █    a gargantual dumbass.                                               █░
+  █  3 If there exist this many religons, they must be all false, as well  █░
+  █    as any other philosophy, and the truth must be somewhere else.      █░
+  █  4 Death is a part of life, for which there's no reason to grieve.     █░
+  █  5 Reality is relevant.                                                █░
+  █  6 All religions are obsolete, therefore some other system is needed.  █░
+  █  7 Everything is subject to the laws of the nature, and human and the  █░
+  █    nature are one.                                                     █░
+  █  8 Human is actually free when enlightened.                            █░
+  █  9 Only who is wise and enlightened is the right human.                █░
+  █ 10 Human not intelligent enough still counts as an animal.             █░
+  █                                                                        █░
+  ▓████████████████████████████████████████████████████████████████████████▓░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+ ░▒▒▒▒▒░ he religious influence is these 10 main articles above, which stand
+ ▒█████▒ as high as Allah. In there it's encrypted that God, human and nature
+ ░▒▒█▒▒░ are mutually connected, as well as the human and nature are God. If
+ ░░▒█▒░░ someone believes in God, it's their own conviction, and they have
+ ░░▒█▒░░ a right to worship it in any form. It isn't needed to obey the dogmas
+ ░░▒█▒░░ of abrahamic religions. Any worship of God is also worshipping of
+ ░░░▒░░░ human and nature, therefore it shall be untaxable and natural, that
+         means all rituals shall be individual and without any sacrifices.
+
+Worshipping of God shall not be abused for someone else's enrichment, as well
+as excorcising it's negative properties, because like human, God has also
+nagative properties. For example in Torah it commands to sacrifice a son and
+then it revokes that command, as it was just a loyalty test. That could be
+considered to be some disorder or potential deviation with current knowledge.
+
+Therefore, worshipping God should be a personal affair.
+
+Concerning the social and political aspects, they can be expressed as articles,
+which can be grouped into social, political, cybernetic and scientific.
 
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░ 
+  █   S O C I A L   A R T I C L E S                                        █░
+  █________________________________________________________________________█░
   █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
+  █  1 Right of equality according to intelligence.                        █░
+  █  2 Possibility of social equalization with mentally and physically     █░
+  █    disabled, who cannot fully engage in society due to rejection.      █░
+  █  3 Fight against dogmas.                                               █░
+  █  4 Right for nations to self-identify without interventions.           █░
+  █  5 Individual self-identification in society and following acceptance. █░
+  █  6 Creating barrier-less society.                                      █░
+  █  7 Right for private anonymity.                                        █░
+  █  8 Overcoming the rejection of death.                                  █░
+  █  9 Secession from old religions and systems.                           █░
+  █ 10 Right to create the nation's elite, consisting of the people who've █░
+  █    contributed to improving society or have the capacity to do so.     █░
   █                                                                        █░
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░ 
+  █   P O L I T I C A L   A R T I C L E S                                  █░
+  █________________________________________________________________________█░
   █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  ▓████████████████████████████████████████████████████████████████████████▓░
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-  ▓████████████████████████████████████████████████████████████████████████▓
-  █                                                                        █░ 
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
+  █  1 Right to be neutral.                                                █░
+  █  2 Neutral politics of the state benefitting the citizens.             █░
+  █  3 Transparency.                                                       █░
+  █  4 Social and political anonymity.                                     █░
+  █  5 Right to enlight the children about neutral politics.               █░
+  █  6 Right for a political national revival.                             █░
+  █  7 Right for culturally political enlightment and freedom, as well as  █░
+  █    remider that everyone is a part of the nation, and every nation is  █░
+  █    related to some and different to others.                            █░
   █                                                                        █░
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░ 
+  █   C Y B E R N E T I C   A R T I C L E S                                █░
+  █________________________________________________________________________█░
   █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
-  █                                                                        █░
+  █  1 The Internet shall be the place of controlled anarchy, where        █░
+  █    anonymity is available for all.                                     █░
+  █  2 There shall be no restrictions for sharing safe content and apps    █░
+  █    on the Internet, and it shall be secured against attacks.           █░
+  █  3 Computers and their user interface shall never become more          █░
+  █    intelligent than human, yet they shall be recognized as an integral █░
+  █    part of society, be it in culture, security, or interaction.        █░
+  █  4 None shall be restricted on the Internet without thier own consent. █░
+  █  5 The Internet shall have no owner and shall be modifiable.           █░
+  █  6 The Internet shall be secured.                                      █░
   █                                                                        █░
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
+  ▓████████████████████████████████████████████████████████████████████████▓
+  █                                                                        █░ 
+  █   S C I E N T I F I C   A R T I C L E S                                █░
+  █________________________________________________________________________█░
+  █                                                                        █░
+  █  1 Science shan't be limited by dogmas and excessive ethics.           █░
+  █  2 Science shall be the engine of the society.                         █░
+  █  3 Science shan't be monetized by the scientist.                       █░
+  █                                                                        █░
+  ▓████████████████████████████████████████████████████████████████████████▓░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
  =======================
@@ -178,32 +192,254 @@ Lidi, kteří nejsou, dostatečně inteligentní jsou pořád jen zvířata
  ===========================
 
 
- ===============================
-  5   H E A D   1
- ===============================
+______________________________________________________________________________
 
+ Templates and initial fonts
+
+
+ ===============================
+  1   H E A D   1
+ ===============================
 
  -------------------
-  5.1   H E A D   2
+  1.2   H E A D   2
  -------------------
 
- 
-  5.1.1   HEAD 3
+  1.2.3   HEAD 3
  ================
 
-  5.1.1.1   HEAD 4
+  1.2.3.4   HEAD 4
  ------------------
 
-  5.1.1.1.1   HEAD 5
+  1.2.3.4.5   HEAD 5
 
+  1.2.3.4.5.6   Head 6
 
-  5.1.1.1.1.1  HEAD 6
+  ▓████████████████████████████████████████████████████████████████████████▓
+  █                                                                        █░
+  █   T I T L E                                                            █░
+  █________________________________________________________________________█░
+  █                                                                        █░
+  █ Content                                                                █░
+  █                                                                        █░
+  ▓████████████████████████████████████████████████████████████████████████▓░
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
+    █
+   █ █
+  █   █
+  █████
+  █   █
 
+  ████
+  █   █
+  ████
+  █   █
+  ████
 
+   ████
+  █
+  █
+  █
+   ████
 
+  ████
+  █   █
+  █   █
+  █   █
+  ████
 
+  █████
+  █
+  ████
+  █
+  █████
 
+  █████
+  █
+  ████
+  █
+  █
 
+   ███
+  █
+  █ ███
+  █   █
+   ███
 
+  █   █
+  █   █
+  █████
+  █   █
+  █   █
+
+  █████
+    █
+    █
+    █
+  █████
+
+   ████
+      █
+      █
+      █
+  ████
+
+  █  ██
+  █ █
+  ██
+  █ █
+  █  ██
+
+  █
+  █
+  █
+  █
+  █████
+
+  █   █
+  ██ ██
+  █ █ █
+  █   █
+  █   █
+
+  █   █
+  ██  █
+  █ █ █
+  █  ██
+  █   █
+
+   ███
+  █   █
+  █   █
+  █   █
+   ███
+
+  ████
+  █   █
+  ████
+  █
+  █
+
+   ███
+  █   █
+  █   █
+  █  ██
+   ████
+
+  ████
+  █   █
+  ████
+  █ █
+  █  ██
+
+   ████
+  █
+   ███
+      █
+  ████
+
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ░▒▒█▒▒░
+ ░░▒█▒░░
+ ░░▒█▒░░
+ ░░▒█▒░░
+ ░░░▒░░░
+
+  █   █
+  █   █
+  █   █
+  █   █
+   ███
+
+  █   █
+  █   █
+   █ █
+   █ █
+    █
+
+  █   █
+  █   █
+  █ █ █
+  ██ ██
+  █   █
+
+  █   █
+   █ █
+    █
+   █ █
+  █   █
+
+  █   █
+  █   █
+   ████
+      █
+   ███
+
+  █████
+      █
+   ███
+  █
+  █████
+
+   ███
+  █  ██
+  █ █ █
+  ██  █
+   ███
+
+    █
+   ██
+    █
+    █
+  █████
+
+  ████
+      █
+   ███
+  █
+  █████
+
+  ████
+      █
+   ███
+      █
+  ████
+
+    ██
+   █ █
+  █  █
+  █████
+     █
+
+  █████
+  █
+   ███
+      █
+  ████
+
+   ███
+  █
+  ████
+  █   █
+   ███
+
+  █████
+      █
+     █
+    █
+    █
+
+   ███
+  █   █
+   ███
+  █   █
+   ███
+
+   ███
+  █   █
+   ████
+      █
+   ███
 
