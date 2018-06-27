@@ -1,4 +1,4 @@
-000000000111111111122222222223333333333444444444455555555556666666666777777777
+﻿000000000111111111122222222223333333333444444444455555555556666666666777777777
 123456789012345678901234567980123456789012345678901234567890123456789012345678
 
  ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
@@ -19,23 +19,23 @@
 
 
  ======================
-  -2   C O N T E N T S
- =======================
-
-Chapter Name         Line
-
- -2     Contents
- -1     Preamble     0036
-  0     Articles     0058
-  1     The Human    0200
-  2     The God      0300
-  3     The Nature   0400
-  4     The Society  0500
-
-
+  -1   C O N T E N T S
  ======================
-  -1   P R E A M B L E
- ======================
+
+Chapter Name           Line
+
+ -1     Contents       0021
+  0     Articles       0036
+  1     The Human      0170
+  2     The God        0200
+  3     The Nature     0300
+  4     The Society    0400
+  5     The xxxx       0500
+
+
+ =====================
+  0   A R T I C L E S
+ =====================
 
  ░▒▒▒▒▒░ oday's world needs new ideas recognizing new technologies and recent
  ▒█████▒ development of the society. Almost all past ideas were based on some
@@ -54,10 +54,7 @@ well as Neo-paganism, and concerning social and political views it's multiple
 influences from Pirate Parties and punk's key principle of despisal of the
 system, which is too obsolete and bureaucratic anyway.
 
-
- =====================
-  0   A R T I C L E S
- =====================
+The religious influence is these 10 main articles, standing as high as Allah:
 
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░
@@ -81,14 +78,12 @@ system, which is too obsolete and bureaucratic anyway.
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
- ░▒▒▒▒▒░ he religious influence is these 10 main articles above, which stand
- ▒█████▒ as high as Allah. In there it's encrypted that God, human and nature
- ░▒▒█▒▒░ are mutually connected, as well as the human and nature are God. If
- ░░▒█▒░░ someone believes in God, it's their own conviction, and they have
- ░░▒█▒░░ a right to worship it in any form. It isn't needed to obey the dogmas
- ░░▒█▒░░ of abrahamic religions. Any worship of God is also worshipping of
- ░░░▒░░░ human and nature, therefore it shall be untaxable and natural, that
-         means all rituals shall be individual and without any sacrifices.
+In there it's encrypted that God, human and nature are mutually connected, as
+well as the human and nature are God. If someone believes in God, it's their
+own conviction, and they have a right to worship it in any form. It isn't
+needed to obey the dogmas of abrahamic religions. Any worship of God is also
+worshipping of human and nature, therefore it shall be untaxable and natural,
+that means all rituals shall be individual and without any sacrifices.
 
 Worshipping of God shall not be abused for someone else's enrichment, as well
 as excorcising it's negative properties, because like human, God has also
@@ -177,9 +172,11 @@ which can be grouped into social, political, cybernetic and scientific.
  =======================
 
 
+
  ===================
   2   T H E   G O D
  ===================
+
 
 
  =========================
@@ -187,14 +184,23 @@ which can be grouped into social, political, cybernetic and scientific.
  =========================
 
 
+
  ===========================
   4   T H E   S O C I E T Y
  ===========================
 
 
-______________________________________________________________________________
 
- Templates and initial fonts
+
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+██████████████████████████████████████████████████████████████████████████████
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+ *** Templates and initial font ***
 
 
  ===============================
@@ -215,129 +221,216 @@ ______________________________________________________________________________
 
   1.2.3.4.5.6   Head 6
 
+ ░▒░░░░░ orem ipsum dolor sit amet consectetuer consequat faucibus nec
+ ▒█▒░░░░ consequat velit. urabitur at sit tellus pulvinar pretium dolor nulla
+ ▒█▒░░░░ lobortis cursus tellus. Dolor nulla at id In dolor Curabitur ultrices
+ ▒█▒░░░░ wisi libero Vivamus. Aenean Nulla wisi habitasse condimentum
+ ▒█▒▒▒▒░ condimentum sed Nam neque Nulla Donec. Phasellus quis semper velit id
+ ▒█████▒ Sed Ut elit justo Donec dui. Fringilla semper magnis id metus
+ ░▒▒▒▒▒░ facilisi convallis rutrum id malesuada lacinia. Lorem felis
+         Suspendisse et iaculis natoque ligula pretium iaculis arcu sed. Nunc
+tempus nibh amet augue neque Phasellus wisi pretium purus Morbi. Nunc Nunc
+ligula adipiscing diam accumsan nunc mauris amet a nec. Velit ante ipsum
+Curabitur lorem Phasellus cursus dui massa adipiscing laoreet. Purus enim
+porta egestas Quisque Sed dictumst orci ut laoreet tellus.
+
+At eget ut et wisi vel accumsan ipsum ac nibh lobortis. In id nibh
+Donec fringilla urna risus Donec et mauris neque. Mollis pulvinar
+Aenean diam turpis mollis Aenean augue Curabitur Aenean odio. Dolor
+Vivamus elit Praesent ut leo elit tellus turpis pulvinar Vestibulum.
+Turpis odio porttitor ac convallis eleifend nibh lacinia Donec
+Phasellus Phasellus. Tristique urna leo vel porttitor Praesent
+condimentum ante Cras Aliquam at. Justo pede Curabitur Aenean risus
+Curabitur purus Nullam Vestibulum id habitant. Tellus id Phasellus
+Vestibulum justo Lorem velit pellentesque vitae quis In.
+
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░
-  █   T I T L E                                                            █░
+  █   L O R E M   I P S U M   D O L O R   S I T   A M E T                  █░
   █________________________________________________________________________█░
   █                                                                        █░
-  █ Content                                                                █░
+  █ ░░▒▒▒▒░ urabitur In adipiscing pellentesque enim Cras id urna          █░
+  █ ░▒████▒ habitasse ac et. In ipsum ornare parturient Phasellus orci     █░
+  █ ▒█▒▒▒▒░ massa dolor Nam faucibus Curabitur. Nisl eu natoque            █░
+  █ ▒█▒░░░░ Suspendisse Aliquam ac sagittis lobortis malesuada gravida     █░
+  █ ▒█▒▒▒▒░ fermentum.  In Vestibulum orci et feugiat Vivamus mauris       █░
+  █ ░▒████▒ egestas lobortis dui tincidunt. Augue penatibus nulla lacinia  █░
+  █ ░░▒▒▒▒░ id ante dis nibh lacus netus faucibus. Lorem adipiscing.       █░
+  █         Phasellus Curabitur natoque interdum tristique malesuada       █░
+  █ adipiscing iaculis est a venenatis. Platea nibh mauris libero          █░
+  █ a Curabitur id leo Sed penatibus enim. Senectus mauris lorem non quis  █░
+  █ Curabitur Nam id dictumst id enim. Id adipiscing at pede sapien Morbi  █░
+  █ vel id Curabitur Nulla lacinia. Euismod orci porttitor consequat vitae █░
+  █ Nam vitae condimentum Nunc adipiscing vel. Mus adipiscing nisl quis    █░
+  █ Nullam nunc condimentum Donec cursus Curabitur Curabitur.              █░
+  █                                                                        █░
+  █ Vestibulum quis sed dis porta vel Integer dictumst congue lorem        █░
+  █ tincidunt. Justo eget ante tellus Morbi Pellentesque pede molestie     █░
+  █ nibh orci ut. Mollis rhoncus faucibus Nullam dui Morbi Nam Morbi       █░
+  █ tristique leo aliquet. Ornare sem congue pellentesque Vestibulum sed   █░
+  █ hac quam pede hac iaculis. Et ut Nam accumsan eget et tempor mauris    █░
+  █ facilisi dui parturient. Enim Vestibulum hendrerit Pellentesque        █░
+  █ Vestibulum eu habitasse commodo dui ipsum id. Nibh consequat cursus    █░
+  █ adipiscing sed Aliquam Aenean a tortor pharetra malesuada. Dictum eu   █░
+  █ vestibulum risus ac Proin porttitor mollis lobortis venenatis natoque. █░
+  █ Montes consequat at malesuada penatibus consectetuer fringilla         █░
+  █ faucibus Sed velit tincidunt. Sed Sed semper et feugiat convallis      █░
+  █ pretium tellus tempus risus amet. Ut egestas pretium eu vitae.         █░
   █                                                                        █░
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-    █
-   █ █
-  █   █
-  █████
-  █   █
+ ░░░▒░░░
+ ░░▒█▒░░
+ ░▒█▒█▒░
+ ▒█▒▒▒█▒
+ ▒█████▒
+ ▒█▒▒▒█▒
+ ░▒░░░▒░
 
-  ████
-  █   █
-  ████
-  █   █
-  ████
+ ░▒▒▒▒░░
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
-   ████
-  █
-  █
-  █
-   ████
+ ░░▒▒▒▒░
+ ░▒████▒
+ ▒█▒▒▒▒░
+ ▒█▒░░░░
+ ▒█▒▒▒▒░
+ ░▒████▒
+ ░░▒▒▒▒░
 
-  ████
-  █   █
-  █   █
-  █   █
-  ████
+ ░▒▒▒▒░░
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
-  █████
-  █
-  ████
-  █
-  █████
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ▒█▒▒▒▒░
+ ▒████▒░
+ ▒█▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-  █████
-  █
-  ████
-  █
-  █
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ▒█▒▒▒▒░
+ ▒████▒░
+ ▒█▒░░░░
+ ▒█▒░░░░
+ ░▒░░░░░
 
-   ███
-  █
-  █ ███
-  █   █
-   ███
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒▒░
+ ▒█▒███▒
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-  █   █
-  █   █
-  █████
-  █   █
-  █   █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ▒█████▒
+ ▒█▒▒▒█▒
+ ▒█▒░▒█▒
+ ░▒░░░▒░
 
-  █████
-    █
-    █
-    █
-  █████
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ░▒▒█▒▒░
+ ░░▒█▒░░
+ ░▒▒█▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-   ████
-      █
-      █
-      █
-  ████
+ ░░▒▒▒▒░
+ ░▒████▒
+ ░░▒▒▒█▒
+ ░░░░▒█▒
+ ░▒▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
-  █  ██
-  █ █
-  ██
-  █ █
-  █  ██
+ ░▒░░▒▒░
+ ▒█▒▒██▒
+ ▒█▒█▒▒░
+ ▒██▒░░░
+ ▒█▒█▒▒░
+ ▒█▒▒██▒
+ ░▒░░▒▒░
 
-  █
-  █
-  █
-  █
-  █████
+ ░▒░░░░░
+ ▒█▒░░░░
+ ▒█▒░░░░
+ ▒█▒░░░░
+ ▒█▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-  █   █
-  ██ ██
-  █ █ █
-  █   █
-  █   █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒██▒██▒
+ ▒█▒█▒█▒
+ ▒█▒░▒█▒
+ ▒█▒░▒█▒
+ ░▒░░░▒░
 
-  █   █
-  ██  █
-  █ █ █
-  █  ██
-  █   █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒██▒▒█▒
+ ▒█▒█▒█▒
+ ▒█▒▒██▒
+ ▒█▒░▒█▒
+ ░▒░░░▒░
 
-   ███
-  █   █
-  █   █
-  █   █
-   ███
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒█▒
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-  ████
-  █   █
-  ████
-  █
-  █
+ ░▒▒▒▒░░
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ▒████▒░
+ ▒█▒▒▒░░
+ ▒█▒░░░░
+ ░▒░░░░░
 
-   ███
-  █   █
-  █   █
-  █  ██
-   ████
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒█▒
+ ▒█▒░▒█▒
+ ▒█▒▒██▒
+ ░▒████▒
+ ░░▒▒▒▒░
 
-  ████
-  █   █
-  ████
-  █ █
-  █  ██
+ ░▒▒▒▒░░
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ▒████▒░
+ ▒█▒█▒▒░
+ ▒█▒▒██▒
+ ░▒░░▒▒░
 
-   ████
-  █
-   ███
-      █
-  ████
+ ░░▒▒▒▒░
+ ░▒████▒
+ ▒█▒▒▒▒░
+ ░▒███▒░
+ ░▒▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
  ░▒▒▒▒▒░
  ▒█████▒
@@ -347,99 +440,138 @@ ______________________________________________________________________________
  ░░▒█▒░░
  ░░░▒░░░
 
-  █   █
-  █   █
-  █   █
-  █   █
-   ███
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒█▒░▒█▒
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-  █   █
-  █   █
-   █ █
-   █ █
-    █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒█▒░▒█▒
+ ░▒█▒█▒░
+ ░▒█▒█▒░
+ ░░▒█▒░░
+ ░░░▒░░░
 
-  █   █
-  █   █
-  █ █ █
-  ██ ██
-  █   █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ▒█▒█▒█▒
+ ▒██▒██▒
+ ▒█▒░▒█▒
+ ░▒░░░▒░
 
-  █   █
-   █ █
-    █
-   █ █
-  █   █
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ░▒█▒█▒░
+ ░░▒█▒░░
+ ░▒█▒█▒░
+ ▒█▒░▒█▒
+ ░▒░░░▒░
 
-  █   █
-  █   █
-   ████
-      █
-   ███
+ ░▒░░░▒░
+ ▒█▒░▒█▒
+ ▒█▒▒▒█▒
+ ░▒████▒
+ ░░▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-  █████
-      █
-   ███
-  █
-  █████
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒█▒
+ ░▒███▒░
+ ▒█▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-   ███
-  █  ██
-  █ █ █
-  ██  █
-   ███
+ ░░▒▒░░░
+ ░▒██▒░░
+ ▒█▒█▒░░
+ ▒█▒██▒░
+ ▒█▒█▒█▒
+ ░▒██▒█▒
+ ░░▒▒░▒░
 
-    █
-   ██
-    █
-    █
-  █████
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒██▒
+ ▒█▒█▒█▒
+ ▒██▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-  ████
-      █
-   ███
-  █
-  █████
+ ░░░▒░░░
+ ░░▒█▒░░
+ ░▒██▒░░
+ ░░▒█▒░░
+ ░▒▒█▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-  ████
-      █
-   ███
-      █
-  ████
+ ░▒▒▒▒░░
+ ▒████▒░
+ ░▒▒▒▒█▒
+ ░▒███▒░
+ ▒█▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒▒░
 
-    ██
-   █ █
-  █  █
-  █████
-     █
+ ░▒▒▒▒░░
+ ▒████▒░
+ ░▒▒▒▒█▒
+ ░▒███▒░
+ ░▒▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
-  █████
-  █
-   ███
-      █
-  ████
+ ░░░▒▒░░
+ ░░▒██▒░
+ ░▒█▒█▒░
+ ▒█▒▒█▒░
+ ▒█████▒
+ ░▒▒▒█▒░
+ ░░░░▒░░
 
-   ███
-  █
-  ████
-  █   █
-   ███
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ▒█▒▒▒░░
+ ░▒███▒░
+ ░▒▒▒▒█▒
+ ▒████▒░
+ ░▒▒▒▒░░
 
-  █████
-      █
-     █
-    █
-    █
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒░░
+ ▒████▒░
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
-   ███
-  █   █
-   ███
-  █   █
-   ███
+ ░▒▒▒▒▒░
+ ▒█████▒
+ ░▒▒▒▒█▒
+ ░░░▒█▒░
+ ░░▒█▒░░
+ ░░▒█▒░░
+ ░░░▒░░░
 
-   ███
-  █   █
-   ████
-      █
-   ███
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ▒█▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
 
+ ░░▒▒▒░░
+ ░▒███▒░
+ ▒█▒▒▒█▒
+ ░▒████▒
+ ░░▒▒▒█▒
+ ░▒███▒░
+ ░░▒▒▒░░
