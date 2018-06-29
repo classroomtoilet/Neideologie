@@ -7,13 +7,11 @@ ______________________________________________________________
 ______________________________________________________________
 ______________________________________________________________
 
-Devised by classroomtoilet upon reading DINAR and Myslánka 1437 by the English translator and ANSI typesetter 637man, June 2018.
-
-***
-
 EN: Neoideology
 
 CZ: Neoideologie
+
+SK: Neoideológia
 
 RU: Неоидеологиа
 
@@ -21,4 +19,6 @@ GeSeL: jadad-dawlaj
 
 ***
 
-|||   Три полоски од Адидаса - Tобариши, чуй хардбасса.   |||
+Devised by classroomtoilet upon reading DINAR and Myslánka 1437 by the English translator and ANSI typesetter 637man, June 2018.
+
+||| Три полоски од Адидаса - Tовариши, чуй хардбасса. |||
