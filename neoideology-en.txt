@@ -3,6 +3,55 @@
 
  ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+      █▄▄                   ▄▄▄▄▄███████████▄▄▄▄▄                   ▄▄█     
+     ▄█████▄▄          ▄▄██████▀▀▀▀▀▀▀█▀▀▀▀▀▀▀██████▄▄          ▄▄█████▄    
+     █████████▄▄   ▄▄████▀▀▀          █          ▀▀▀████▄▄   ▄▄█████████    
+    ▄███████████▄▄███▀▀               █               ▀▀███▄▄███████████▄   
+    ██████████████▀▀                 ███                 ▀▀██████████████   
+    ▀██████████████                  ███                  ██████████████▀   
+     ▀██████████████▄               ▄███▄               ▄██████████████▀    
+      ▀████████████████▄▄           █████           ▄▄████████████████▀     
+       ████████████████████▄▄       █████       ▄▄████████████████████      
+      ███▀█████████████████████▄▄  ███████  ▄▄█████████████████████▀███     
+     ███  ▀███████████████████████▄███████▄███████████████████████▀  ███    
+    ███     ▀███████████████████████████████████████████████████▀     ███   
+   ███        ▀███████████████████████████████████████████████▀        ███  
+  ▄██▀          ▀█████████████▀███▀█▀▀▀▀▀█▀█████████████████▀          ▀██▄ 
+  ███              ▀██████████  ██ ███ ███ ██████████████▀              ███ 
+  ██                 █████████ █ █ ███ ███ █████████████                 ██ 
+ ███                  ▀███████ ██  ███ ███ ███████████▀                  ███
+ ███                    ██████▄███▄█▄▄▄▄▄█▄▄▄▄▄██████                    ███
+ ███                     ███████████████████████████                     ███
+ ███                     ▀█████████████████████████▀                     ███
+ ███                     ▄█████████████████████████▄                     ███
+ ▀██                   ▄█████████████████████████████▄                   ██▀
+  ██▄                ▄█████████████████████████████████▄                ▄██ 
+  ███              ▄█████████████████████████████████████▄              ███ 
+   ██▄           ▄█████████████▀█████████████▀█████████████▄           ▄██  
+   ▀██         ▄██████████▀▀    █████████████    ▀▀██████████▄         ██▀  
+    ███      ▄██████▀▀▀         █████████████         ▀▀▀██████▄      ███   
+     ███   ▄██▀▀▀               █████████████               ▀▀▀██▄   ███    
+      ▀███▀▀                    █████████████                    ▀▀███▀     
+       ▀██▄                     █████████████                     ▄██▀      
+         ███▄                   █████████████                   ▄███        
+          ▀███▄                 █████████████                 ▄███▀         
+            ▀███▄               █████████████               ▄███▀           
+              ▀▀██▄▄            █████████████            ▄▄██▀▀             
+                 ▀███▄▄         █████████████         ▄▄███▀                
+                    ▀▀███▄▄▄    █████████████    ▄▄▄███▀▀                   
+                        ▀▀▀███████████████████████▀▀▀                       
+                              ▀▀█████████████▀▀                             
+                                █████████████                               
+                                 ███████████                                
+                                  ▀███████▀                                 
+                                   ▀█████▀                                  
+                                     ███                                    
+                                      ▀                                     
 
       █   █ █████  ███  █████ ████  █████  ███  █      ███   ███  █   █
       ██  █░█░░░░░█ ░░█  ░█░░░█░░░█ █░░░░░█ ░░█ █░    █ ░░█ █ ░░░ █░  █░
@@ -13,9 +62,14 @@
 
  ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░▒▒▓▓████████████████████████████████████████████████████████████████▓▓▒▒░░
+        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-       Devised by classroomtoilet upon reading DINAR and Myslánka 1437
-       by the English translator and ANSI typesetter 637man, June 2018.
+        Devised by classroomtoilet upon reading DINAR and Myslánka 1437
+        by the English translator and ANSI typesetter 637man, June 2018.
+        |||   Три полоски од Адидаса - Tовариши, слюшай хардбасса.   |||
 
 
  ======================
@@ -24,13 +78,13 @@
 
 Chapter Name           Line
 
- -1     Contents       0021
-  0     Articles       0036
-  1     The Human      0170
+ -1     Contents       0030
+  0     Articles       0045
+  1     The Human      0179
   2     The God        0200
   3     The Nature     0300
   4     The Society    0400
-  5     The xxxx       0500
+  5     Translator Notes       0500
 
 
  =====================
@@ -93,8 +147,8 @@ considered to be some disorder or potential deviation with current knowledge.
 
 Therefore, worshipping God should be a personal affair.
 
-Concerning the social and political aspects, they can be expressed as articles,
-which can be grouped into social, political, cybernetic and scientific.
+Concerning the social and political aspects, they can be expressed in articles
+which can be grouped into social, political, cybernetic, and scientific.
 
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░ 
@@ -146,7 +200,7 @@ which can be grouped into social, political, cybernetic and scientific.
   █    on the Internet, and it shall be secured against attacks.           █░
   █  3 Computers and their user interface shall never become more          █░
   █    intelligent than human, yet they shall be recognized as an integral █░
-  █    part of society, be it in culture, security, or interaction.        █░
+  █    part of the society, be it in culture, security, or interaction.    █░
   █  4 None shall be restricted on the Internet without thier own consent. █░
   █  5 The Internet shall have no owner and shall be modifiable.           █░
   █  6 The Internet shall be secured.                                      █░
@@ -171,37 +225,158 @@ which can be grouped into social, political, cybernetic and scientific.
   1   T H E   H U M A N
  =======================
 
+ ░▒░░░▒░ uman by itself has 3 parts: male, female, and childish along with
+ ▒█▒░▒█▒ those gender non-binary attention whores, who act like child, should
+ ▒█▒▒▒█▒ someone refuse to call them by their preferred invented pronoun.
+ ▒█████▒ Every part is important for survial of human race. Man has sperms,
+ ▒█▒▒▒█▒ that's the 1st part, woman has eggs, that's the 2nd one, and out of
+ ▒█▒░▒█▒ those come children, the 3rd part. Note that this may change with
+ ░▒░░░▒░ advances in genetical engineering. Everything is of course relative,
+         because children are by the society anyways, instead of letting them
+partially lead themselves. Everyone has right for their own opinion, but in
+childhood there's no freedom of opinion or expression. That's not to be
+interpreted as letting them behave like little spoiled brats in public.
+
+Furthermore, in adulthood could some people use mandatory educations since
+those who decide to have a child are somewhat not educated intelligently. They
+probably have dumbly memorized something usless and impractical just to pass
+the exams. Because nowadays people are dumb sheep, it's needed to introduce
+a new barrierless idea. It believes that each human is where they are, which
+is nowadays unfortunately measured by the amount of fiat currency units on
+their bank accounts, according to some elitists.
+
+A child in adulthood has something learned, has a carreer, but today it's more
+about work field than about integrating into the system. Anyway, this is not
+important. Life is short and litte remains after that. People should care also
+about culture and systemic heritage to other generations, because the
+development of science, society, and culture is essential for our survival, as
+we're in a circular system. Our life is divided into stages and everyone will
+experience this ride only once and at the end their children and children's
+children are following.
+
+When we're old we should have made peace with death and be transfering
+experiences to others. But they are spoiled by some cultural styles. Were it
+solved by making a compromise, it would be compromising a culturally social
+problem. Because nowadays the surrounding raises.
+
+Human has a brain, which means they must be running on some kind of software,
+for example on a god. The system is a thought writer in a way and furthermore
+thoughts are creation or trash of this software. Be it any way, they are only
+some creations and the hardware must fullfill them, for it is a way to create
+something and pass that to other versions or instances of the software.
+ 
+Therefore a human and a god are one. Therefore god is fallible and imperfect.
+In all ways we are gods themselves. So is nature. Human is an offspring of the
+nature and god is an offspring of itself. We're not gods by ourselves, we're
+fate creators. Everyone who is a god of themself must be intelligent and so
+they have the right to freedom. 
+
+Some of us are infallible and therefore god can be infallible too. Everyone
+has the right to question any authority.
+
+The new system must be different to others, more humane. A human must first
+understand his inner self and then create some system.
 
 
  ===================
   2   T H E   G O D
  ===================
 
+ ░▒▒▒▒▒░ n the 1st part I mentioned that the nature, human and god are one.
+ ▒█████▒ Therefore everything is connected. But there is one question: What is
+ ░▒▒█▒▒░ really a god?
+ ░░▒█▒░░
+ ░▒▒█▒▒░ In my view a god is our soul, our conscience. By this I don't indend
+ ▒█████▒ to disrespect religions, but a new concept is needed, that would be
+ ░▒▒▒▒▒░ more modern and effective than today's system, which is capitalist
+         and very ineffective, because many techologies have been invented and
+made obsolete.
+
+Only due to ancestors and current leaders we still have an obsolete system,
+which is destined to collapse even if they attempt to keep it. Morale is
+declining anyway and still there're many things hidden under it. Nothing
+groundbreaking is happening, the world only stagnates. This system must 1st
+explain the god.
+
+God is a soul of us and simultaneously our conscience. It cannot be a person,
+it must be an energy. It can't be independent, but can be indestructible.
+
+No one has the right to deny a human and therefore simultaneously a god their
+freedoms and intelligence norms or any other natural norms, in the context of
+nature. The only thing that can limit us is the nature and many people of us
+keep forgetting that.
 
 
  =========================
   3   T H E   N A T U R E
  =========================
 
+ ░▒░░░▒░ ature or moter earth or however we call it is certainly something
+ ▒█▒░▒█▒ that's above us. It's connected with us as strongly as we are firmly
+ ▒██▒▒█▒ conneced to it. Nevertheless it's above us and we are responsible
+ ▒█▒█▒█▒ for it's survival as well as our survival, for which we are
+ ▒█▒▒██▒ connected with it.
+ ▒█▒░▒█▒
+ ░▒░░░▒░ Because we are people and we are created by nature, we must
+         acknowledge only 1 thing, and that is that we are on top of the food
+chain. We are wise and gifted with nature. None shall lay their hand on it,
+yet simultaneously the civilization shall progress further and further,
+especially concerning expansion into space. We are all equal to nature and we
+must respect it. We must not lay hand on it. Yet we must develop science, for
+1 time the nature will want to kill us and therefore we must get righteously
+to other planets and try to survive on them. Maturity is dependent on
+technologies and also science and expansion into space.
 
 
  ===========================
   4   T H E   S O C I E T Y
  ===========================
 
+ ░▒▒▒▒▒░ the way they lead us is no longer acceptable! We are slaves to the
+ ▒█████▒ system. We're divided to west and east. All unknowingly accept this,
+ ░▒▒█▒▒░ without realizing how things are. People are in fact similar to
+ ░░▒█▒░░ sheep. They need sepherd and wolf dog for propellment. In fact those
+ ░░▒█▒░░ sheep should deal with the characteristics of the sepherd. Today's
+ ░░▒█▒░░ societiey stems from the catholic one with reforms (I mean today's 
+ ░░░▒░░░ Western society). And soon it stuff everything possible into itself
+         and therefore it won't survive. A structured system is needed, which
+source only from itself, ideologically accepting only minimum and yet staying
+homogeneous. All we stand on is from ancient times and we are declining
+because of that. We need new foundations. New society, which would remove
+errors of the old system.
+
+
+ =====================================
+  5   T R A N S L A T O R   N O T E S
+ =====================================
+
+ ░▒▒▒▒▒░ t appears to me this was mainly a reaction to my DINAR, which expands
+ ▒█████▒ into DINAR Is Not an Abrahamic Religion. The text reacted to is
+ ░▒▒█▒▒░ located at getmania.blogspot.com/p/dinar.html and is in English. The
+ ░░▒█▒░░ author is half Czech and half Slovak, and he wrote this originally in
+ ░▒▒█▒▒░ some incoherent form of Czech that was harder to translate than it
+ ▒█████▒ should be. Methods of text continuity were used incorrectly. Probably
+ ░▒▒▒▒▒░ he didn't even read it after himself. I'm 7/8 Czech and 1/8 Ukrainian
+         close to bilingual with English, and the mess the author made in his
+original document was very irritating to me. He invited me to crosstranslate
+this to English, German, and my constructed laguage GeSeL (Getman Semitic
+Language), while he would be working on Slovak, Russian, and his own
+constructed language Budhot'n, therefore I used this opportunity to fix his
+writing and turn an awful Word document into a nice e-text with ANSI art.
+There are still some stylistical inconsistencies and lexically logical errors.
+They were kept because translation isn't necessarily a correction.
 
 
 
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ██████████████████████████████████████████████████████████████████████████████
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
  *** Templates and initial font ***
-
 
  ===============================
   1   H E A D   1
@@ -234,16 +409,6 @@ ligula adipiscing diam accumsan nunc mauris amet a nec. Velit ante ipsum
 Curabitur lorem Phasellus cursus dui massa adipiscing laoreet. Purus enim
 porta egestas Quisque Sed dictumst orci ut laoreet tellus.
 
-At eget ut et wisi vel accumsan ipsum ac nibh lobortis. In id nibh
-Donec fringilla urna risus Donec et mauris neque. Mollis pulvinar
-Aenean diam turpis mollis Aenean augue Curabitur Aenean odio. Dolor
-Vivamus elit Praesent ut leo elit tellus turpis pulvinar Vestibulum.
-Turpis odio porttitor ac convallis eleifend nibh lacinia Donec
-Phasellus Phasellus. Tristique urna leo vel porttitor Praesent
-condimentum ante Cras Aliquam at. Justo pede Curabitur Aenean risus
-Curabitur purus Nullam Vestibulum id habitant. Tellus id Phasellus
-Vestibulum justo Lorem velit pellentesque vitae quis In.
-
   ▓████████████████████████████████████████████████████████████████████████▓
   █                                                                        █░
   █   L O R E M   I P S U M   D O L O R   S I T   A M E T                  █░
@@ -263,19 +428,6 @@ Vestibulum justo Lorem velit pellentesque vitae quis In.
   █ vel id Curabitur Nulla lacinia. Euismod orci porttitor consequat vitae █░
   █ Nam vitae condimentum Nunc adipiscing vel. Mus adipiscing nisl quis    █░
   █ Nullam nunc condimentum Donec cursus Curabitur Curabitur.              █░
-  █                                                                        █░
-  █ Vestibulum quis sed dis porta vel Integer dictumst congue lorem        █░
-  █ tincidunt. Justo eget ante tellus Morbi Pellentesque pede molestie     █░
-  █ nibh orci ut. Mollis rhoncus faucibus Nullam dui Morbi Nam Morbi       █░
-  █ tristique leo aliquet. Ornare sem congue pellentesque Vestibulum sed   █░
-  █ hac quam pede hac iaculis. Et ut Nam accumsan eget et tempor mauris    █░
-  █ facilisi dui parturient. Enim Vestibulum hendrerit Pellentesque        █░
-  █ Vestibulum eu habitasse commodo dui ipsum id. Nibh consequat cursus    █░
-  █ adipiscing sed Aliquam Aenean a tortor pharetra malesuada. Dictum eu   █░
-  █ vestibulum risus ac Proin porttitor mollis lobortis venenatis natoque. █░
-  █ Montes consequat at malesuada penatibus consectetuer fringilla         █░
-  █ faucibus Sed velit tincidunt. Sed Sed semper et feugiat convallis      █░
-  █ pretium tellus tempus risus amet. Ut egestas pretium eu vitae.         █░
   █                                                                        █░
   ▓████████████████████████████████████████████████████████████████████████▓░
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
