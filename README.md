@@ -17,6 +17,10 @@ RU: Неоидеологиа
 
 GeSeL: jadad-dawlaj
 
+Budhót'n: nojideolođja
+
+PL: Neoideologia
+
 ***
 
 Devised by classroomtoilet upon reading DINAR and Myslánka 1437 by the English translator and ANSI typesetter 637man, June 2018.
